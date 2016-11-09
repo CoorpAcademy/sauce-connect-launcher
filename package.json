@@ -21,22 +21,22 @@
     "test": "make test"
   },
   "dependencies": {
-    "lodash": "3.10.1",
-    "async": "1.4.0",
+    "lodash": "4.16.6",
+    "async": "2.1.2",
     "adm-zip": "~0.4.3",
-    "rimraf": "2.4.3"
+    "rimraf": "2.5.4"
   },
   "devDependencies": {
     "colors": "~1.1.2",
     "expect.js": "~0.3.1",
-    "grunt": "~0.4.1",
-    "grunt-cli": "~0.1.9",
-    "grunt-contrib-watch": "~0.6.1",
-    "grunt-contrib-jshint": "~0.11.0",
+    "grunt": "~1.0.1",
+    "grunt-cli": "~1.2.0",
+    "grunt-contrib-watch": "~1.0.0",
+    "grunt-contrib-jshint": "~1.0.0",
     "grunt-notify": "~0.4.0",
-    "grunt-release": "~0.13.0",
+    "grunt-release": "~0.14.0",
     "grunt-simple-mocha": "~0.4.0",
-    "mocha": "~2.3.3"
+    "mocha": "~3.1.2"
   },
   "engines": {
     "node": ">= 0.10.x"
